@@ -45,3 +45,5 @@ Creating a new idea that catches the minds of the masses is the most powerful wa
 So yes, Magic works on Symbols!
 
 Even though it really doesn't need to.
+
+![image](magic_works_on_symbols.webp)
